@@ -1,0 +1,71 @@
+{
+    "status": "success",
+    "data": {
+        "net": [
+            {
+                "tradingsymbol": "NIFTY2292217800PE",
+                "exchange": "NFO",
+                "instrument_token": 13492994,
+                "product": "NRML",
+                "quantity": 0,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 0,
+                "close_price": 0,
+                "last_price": 325,
+                "value": 2767.5,
+                "pnl": 2767.5,
+                "m2m": 2767.5,
+                "unrealised": 2767.5,
+                "realised": 0,
+                "buy_quantity": 400,
+                "buy_price": 211.875,
+                "buy_value": 84750,
+                "buy_m2m": 84750,
+                "sell_quantity": 400,
+                "sell_price": 218.79375,
+                "sell_value": 87517.5,
+                "sell_m2m": 87517.5,
+                "day_buy_quantity": 400,
+                "day_buy_price": 211.875,
+                "day_buy_value": 84750,
+                "day_sell_quantity": 400,
+                "day_sell_price": 218.79375,
+                "day_sell_value": 87517.5
+            }
+        ],
+        "day": [
+            {
+                "tradingsymbol": "NIFTY2292217800PE",
+                "exchange": "NFO",
+                "instrument_token": 13492994,
+                "product": "NRML",
+                "quantity": 0,
+                "overnight_quantity": 0,
+                "multiplier": 1,
+                "average_price": 0,
+                "close_price": 0,
+                "last_price": 325,
+                "value": 2767.5,
+                "pnl": 2767.5,
+                "m2m": 2767.5,
+                "unrealised": 2767.5,
+                "realised": 0,
+                "buy_quantity": 400,
+                "buy_price": 211.875,
+                "buy_value": 84750,
+                "buy_m2m": 84750,
+                "sell_quantity": 400,
+                "sell_price": 218.79375,
+                "sell_value": 87517.5,
+                "sell_m2m": 87517.5,
+                "day_buy_quantity": 400,
+                "day_buy_price": 211.875,
+                "day_buy_value": 84750,
+                "day_sell_quantity": 400,
+                "day_sell_price": 218.79375,
+                "day_sell_value": 87517.5
+            }
+        ]
+    }
+}

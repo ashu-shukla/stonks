@@ -1,0 +1,8 @@
+nsepy==0.8
+pandas==1.4.4
+plotly==5.10.0
+python-dotenv==0.21.0
+requests==2.28.1
+streamlit==1.12.2
+websocket_client==1.4.1
+yfinance==0.1.74
