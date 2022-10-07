@@ -40,7 +40,7 @@ def getInstrument(token, df):
 
 
 def notify(token, ltp, ltq, df):
-    discord_url = "https://discord.com/api/webhooks/878985323009425468/1kUcjWjnB5UJTbMaUV_Pfmt_lSACqagVwq37GhwzJXJWMEFAIDWvjz5uWhzrkS-iCQBq"
+    discord_url = ""
     # print(token)
     instrument_info = getInstrument(token, df)
     company_name = instrument_info.iloc[0]['name']

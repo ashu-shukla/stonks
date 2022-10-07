@@ -1,0 +1,602 @@
+[
+    {
+        "instrumentToken": 5633,
+        "tradingSymbol": "ACC",
+        "name": "ACC",
+        "tdvLogoId": "acc"
+    },
+    {
+        "instrumentToken": 6401,
+        "tradingSymbol": "ADANIENT",
+        "name": "ADANI ENTERPRISES",
+        "tdvLogoId": "adani"
+    },
+    {
+        "instrumentToken": 912129,
+        "tradingSymbol": "ADANIGREEN",
+        "name": "ADANI GREEN ENERGY",
+        "tdvLogoId": "adani"
+    },
+    {
+        "instrumentToken": 3861249,
+        "tradingSymbol": "ADANIPORTS",
+        "name": "ADANI PORT & SEZ",
+        "tdvLogoId": "adani"
+    },
+    {
+        "instrumentToken": 2615553,
+        "tradingSymbol": "ADANITRANS",
+        "name": "ADANI TRANSMISSION",
+        "tdvLogoId": "adani-transmiss-in"
+    },
+    {
+        "instrumentToken": 325121,
+        "tradingSymbol": "AMBUJACEM",
+        "name": "AMBUJA CEMENTS",
+        "tdvLogoId": "ambuja-cements"
+    },
+    {
+        "instrumentToken": 40193,
+        "tradingSymbol": "APOLLOHOSP",
+        "name": "APOLLO HOSPITALS ENTER. L",
+        "tdvLogoId": "apollo-hospitals"
+    },
+    {
+        "instrumentToken": 60417,
+        "tradingSymbol": "ASIANPAINT",
+        "name": "ASIAN PAINTS",
+        "tdvLogoId": "asian-paints"
+    },
+    {
+        "instrumentToken": 1552897,
+        "tradingSymbol": "ATGL",
+        "name": "ADANI TOTAL GAS",
+        "tdvLogoId": "adani"
+    },
+    {
+        "instrumentToken": 1510401,
+        "tradingSymbol": "AXISBANK",
+        "name": "AXIS BANK",
+        "tdvLogoId": "axis-bank"
+    },
+    {
+        "instrumentToken": 4267265,
+        "tradingSymbol": "BAJAJ-AUTO",
+        "name": "BAJAJ AUTO",
+        "tdvLogoId": "bajaj-auto"
+    },
+    {
+        "instrumentToken": 4268801,
+        "tradingSymbol": "BAJAJFINSV",
+        "name": "BAJAJ FINSERV.",
+        "tdvLogoId": "bajaj-finance"
+    },
+    {
+        "instrumentToken": 78081,
+        "tradingSymbol": "BAJAJHLDNG",
+        "name": "BAJAJ HOLDINGS & INVS",
+        "tdvLogoId": "bajaj-holdings-and-investment-lt"
+    },
+    {
+        "instrumentToken": 81153,
+        "tradingSymbol": "BAJFINANCE",
+        "name": "BAJAJ FINANCE",
+        "tdvLogoId": "bajaj-finance"
+    },
+    {
+        "instrumentToken": 579329,
+        "tradingSymbol": "BANDHANBNK",
+        "name": "BANDHAN BANK",
+        "tdvLogoId": "bandhan-bank"
+    },
+    {
+        "instrumentToken": 1195009,
+        "tradingSymbol": "BANKBARODA",
+        "name": "BANK OF BARODA",
+        "tdvLogoId": "bank-of-baroda"
+    },
+    {
+        "instrumentToken": 98049,
+        "tradingSymbol": "BEL",
+        "name": "BHARAT ELECTRONICS",
+        "tdvLogoId": "bharat-electronics"
+    },
+    {
+        "instrumentToken": 103425,
+        "tradingSymbol": "BERGEPAINT",
+        "name": "BERGER PAINTS (I)",
+        "tdvLogoId": "berger-paints"
+    },
+    {
+        "instrumentToken": 2714625,
+        "tradingSymbol": "BHARTIARTL",
+        "name": "BHARTI AIRTEL",
+        "tdvLogoId": "airtel"
+    },
+    {
+        "instrumentToken": 2911489,
+        "tradingSymbol": "BIOCON",
+        "name": "BIOCON",
+        "tdvLogoId": "biocon"
+    },
+    {
+        "instrumentToken": 558337,
+        "tradingSymbol": "BOSCHLTD",
+        "name": "BOSCH",
+        "tdvLogoId": "bosch"
+    },
+    {
+        "instrumentToken": 134657,
+        "tradingSymbol": "BPCL",
+        "name": "BHARAT PETROLEUM CORP  LT",
+        "tdvLogoId": "bharat-petroleum"
+    },
+    {
+        "instrumentToken": 140033,
+        "tradingSymbol": "BRITANNIA",
+        "name": "BRITANNIA INDUSTRIES",
+        "tdvLogoId": "britannia"
+    },
+    {
+        "instrumentToken": 175361,
+        "tradingSymbol": "CHOLAFIN",
+        "name": "CHOLAMANDALAM IN & FIN CO",
+        "tdvLogoId": "cholamandalam"
+    },
+    {
+        "instrumentToken": 177665,
+        "tradingSymbol": "CIPLA",
+        "name": "CIPLA",
+        "tdvLogoId": "cipla"
+    },
+    {
+        "instrumentToken": 5215745,
+        "tradingSymbol": "COALINDIA",
+        "name": "COAL INDIA",
+        "tdvLogoId": "coal-india"
+    },
+    {
+        "instrumentToken": 3876097,
+        "tradingSymbol": "COLPAL",
+        "name": "COLGATE PALMOLIVE.",
+        "tdvLogoId": "colgate-palmolive"
+    },
+    {
+        "instrumentToken": 197633,
+        "tradingSymbol": "DABUR",
+        "name": "DABUR INDIA",
+        "tdvLogoId": "dabur"
+    },
+    {
+        "instrumentToken": 2800641,
+        "tradingSymbol": "DIVISLAB",
+        "name": "DIVI S LABORATORIES",
+        "tdvLogoId": "divis"
+    },
+    {
+        "instrumentToken": 3771393,
+        "tradingSymbol": "DLF",
+        "name": "DLF",
+        "tdvLogoId": "dlf"
+    },
+    {
+        "instrumentToken": 5097729,
+        "tradingSymbol": "DMART",
+        "name": "AVENUE SUPERMARTS",
+        "tdvLogoId": "avenue-supermarts"
+    },
+    {
+        "instrumentToken": 225537,
+        "tradingSymbol": "DRREDDY",
+        "name": "DR. REDDY S LABORATORIES",
+        "tdvLogoId": "dr-reddys"
+    },
+    {
+        "instrumentToken": 232961,
+        "tradingSymbol": "EICHERMOT",
+        "name": "EICHER MOTORS",
+        "tdvLogoId": "eicher-motors"
+    },
+    {
+        "instrumentToken": 1207553,
+        "tradingSymbol": "GAIL",
+        "name": "GAIL (INDIA)",
+        "tdvLogoId": "gail"
+    },
+    {
+        "instrumentToken": 303617,
+        "tradingSymbol": "GLAND",
+        "name": "GLAND PHARMA",
+        "tdvLogoId": "gland-pharma"
+    },
+    {
+        "instrumentToken": 2585345,
+        "tradingSymbol": "GODREJCP",
+        "name": "GODREJ CONSUMER PRODUCTS",
+        "tdvLogoId": "godrej"
+    },
+    {
+        "instrumentToken": 315393,
+        "tradingSymbol": "GRASIM",
+        "name": "GRASIM INDUSTRIES",
+        "tdvLogoId": "grasim"
+    },
+    {
+        "instrumentToken": 589569,
+        "tradingSymbol": "HAL",
+        "name": "HINDUSTAN AERONAUTICS",
+        "tdvLogoId": "hindustan-aeronautics"
+    },
+    {
+        "instrumentToken": 2513665,
+        "tradingSymbol": "HAVELLS",
+        "name": "HAVELLS INDIA",
+        "tdvLogoId": "havells"
+    },
+    {
+        "instrumentToken": 1850625,
+        "tradingSymbol": "HCLTECH",
+        "name": "HCL TECHNOLOGIES",
+        "tdvLogoId": "hcl-technologies"
+    },
+    {
+        "instrumentToken": 340481,
+        "tradingSymbol": "HDFC",
+        "name": "HDFC",
+        "tdvLogoId": "housing-development"
+    },
+    {
+        "instrumentToken": 1086465,
+        "tradingSymbol": "HDFCAMC",
+        "name": "HDFC AMC",
+        "tdvLogoId": "hdfc"
+    },
+    {
+        "instrumentToken": 341249,
+        "tradingSymbol": "HDFCBANK",
+        "name": "HDFC BANK",
+        "tdvLogoId": "hdfc-bank"
+    },
+    {
+        "instrumentToken": 119553,
+        "tradingSymbol": "HDFCLIFE",
+        "name": "HDFC LIFE INS CO",
+        "tdvLogoId": "hdfc-life"
+    },
+    {
+        "instrumentToken": 345089,
+        "tradingSymbol": "HEROMOTOCO",
+        "name": "HERO MOTOCORP",
+        "tdvLogoId": "hero-motocorp"
+    },
+    {
+        "instrumentToken": 348929,
+        "tradingSymbol": "HINDALCO",
+        "name": "HINDALCO  INDUSTRIES ",
+        "tdvLogoId": "hindalco"
+    },
+    {
+        "instrumentToken": 356865,
+        "tradingSymbol": "HINDUNILVR",
+        "name": "HINDUSTAN UNILEVER.",
+        "tdvLogoId": "unilever"
+    },
+    {
+        "instrumentToken": 1270529,
+        "tradingSymbol": "ICICIBANK",
+        "name": "ICICI BANK.",
+        "tdvLogoId": "icici-bank"
+    },
+    {
+        "instrumentToken": 5573121,
+        "tradingSymbol": "ICICIGI",
+        "name": "ICICI LOMBARD GIC",
+        "tdvLogoId": "icici-lombard-gen"
+    },
+    {
+        "instrumentToken": 4774913,
+        "tradingSymbol": "ICICIPRULI",
+        "name": "ICICI PRU LIFE INS CO",
+        "tdvLogoId": "icici-prudential-life-insurance"
+    },
+    {
+        "instrumentToken": 2865921,
+        "tradingSymbol": "INDIGO",
+        "name": "INTERGLOBE AVIATION",
+        "tdvLogoId": "interglobe-aviatio"
+    },
+    {
+        "instrumentToken": 1346049,
+        "tradingSymbol": "INDUSINDBK",
+        "name": "INDUSIND BANK",
+        "tdvLogoId": "indusind-bank"
+    },
+    {
+        "instrumentToken": 7458561,
+        "tradingSymbol": "INDUSTOWER",
+        "name": "INDUS TOWERS",
+        "tdvLogoId": "bharti-infratel"
+    },
+    {
+        "instrumentToken": 408065,
+        "tradingSymbol": "INFY",
+        "name": "INFOSYS",
+        "tdvLogoId": "infosys"
+    },
+    {
+        "instrumentToken": 415745,
+        "tradingSymbol": "IOC",
+        "name": "INDIAN OIL CORP",
+        "tdvLogoId": "indian-oil"
+    },
+    {
+        "instrumentToken": 3484417,
+        "tradingSymbol": "IRCTC",
+        "name": "INDIAN RAIL TOUR CORP",
+        "tdvLogoId": "indian-rail-tour-corp-ltd"
+    },
+    {
+        "instrumentToken": 424961,
+        "tradingSymbol": "ITC",
+        "name": "ITC",
+        "tdvLogoId": "itc"
+    },
+    {
+        "instrumentToken": 3001089,
+        "tradingSymbol": "JSWSTEEL",
+        "name": "JSW STEEL",
+        "tdvLogoId": "jsw"
+    },
+    {
+        "instrumentToken": 492033,
+        "tradingSymbol": "KOTAKBANK",
+        "name": "KOTAK MAHINDRA BANK",
+        "tdvLogoId": "kotak-mahindra-bank"
+    },
+    {
+        "instrumentToken": 2426881,
+        "tradingSymbol": "LICI",
+        "name": "LIFE INSURA CORP OF INDIA",
+        "tdvLogoId": "life-insurance-corporation-of-india"
+    },
+    {
+        "instrumentToken": 2939649,
+        "tradingSymbol": "LT",
+        "name": "LARSEN & TOUBRO.",
+        "tdvLogoId": "larsen-and-toubro"
+    },
+    {
+        "instrumentToken": 4561409,
+        "tradingSymbol": "LTI",
+        "name": "L&T INFOTECH",
+        "tdvLogoId": "larsen-and-toubro"
+    },
+    {
+        "instrumentToken": 519937,
+        "tradingSymbol": "M&M",
+        "name": "MAHINDRA & MAHINDRA",
+        "tdvLogoId": "mahindra"
+    },
+    {
+        "instrumentToken": 1041153,
+        "tradingSymbol": "MARICO",
+        "name": "MARICO",
+        "tdvLogoId": "marico"
+    },
+    {
+        "instrumentToken": 2815745,
+        "tradingSymbol": "MARUTI",
+        "name": "MARUTI SUZUKI INDIA.",
+        "tdvLogoId": "maruti-suzuki-india"
+    },
+    {
+        "instrumentToken": 2674433,
+        "tradingSymbol": "MCDOWELL-N",
+        "name": "UNITED SPIRITS",
+        "tdvLogoId": "united-spirits"
+    },
+    {
+        "instrumentToken": 1076225,
+        "tradingSymbol": "MOTHERSON",
+        "name": "SAMVRDHNA MTHRSN INTL",
+        "tdvLogoId": "motherson"
+    },
+    {
+        "instrumentToken": 1152769,
+        "tradingSymbol": "MPHASIS",
+        "name": "MPHASIS",
+        "tdvLogoId": "mphasis"
+    },
+    {
+        "instrumentToken": 6054401,
+        "tradingSymbol": "MUTHOOTFIN",
+        "name": "MUTHOOT FINANCE",
+        "tdvLogoId": "muthoot-finance"
+    },
+    {
+        "instrumentToken": 3520257,
+        "tradingSymbol": "NAUKRI",
+        "name": "INFO EDGE (I)",
+        "tdvLogoId": "info-edge"
+    },
+    {
+        "instrumentToken": 4598529,
+        "tradingSymbol": "NESTLEIND",
+        "name": "NESTLE INDIA",
+        "tdvLogoId": "nestle"
+    },
+    {
+        "instrumentToken": 2977281,
+        "tradingSymbol": "NTPC",
+        "name": "NTPC",
+        "tdvLogoId": "ntpc"
+    },
+    {
+        "instrumentToken": 1675521,
+        "tradingSymbol": "NYKAA",
+        "name": "FSN E COMMERCE VENTURES",
+        "tdvLogoId": "fsn-e-commerce-ventures"
+    },
+    {
+        "instrumentToken": 633601,
+        "tradingSymbol": "ONGC",
+        "name": "OIL AND NATURAL GAS CORP.",
+        "tdvLogoId": "oil-and-natural-gas"
+    },
+    {
+        "instrumentToken": 1716481,
+        "tradingSymbol": "PAYTM",
+        "name": "ONE 97 COMMUNICATIONS",
+        "tdvLogoId": "one-97-communications"
+    },
+    {
+        "instrumentToken": 648961,
+        "tradingSymbol": "PGHH",
+        "name": "P&G HYGIENE & HEALTH CARE",
+        "tdvLogoId": "procter-and-gamble"
+    },
+    {
+        "instrumentToken": 681985,
+        "tradingSymbol": "PIDILITIND",
+        "name": "PIDILITE INDUSTRIES",
+        "tdvLogoId": "pidilite"
+    },
+    {
+        "instrumentToken": 6191105,
+        "tradingSymbol": "PIIND",
+        "name": "PI INDUSTRIES",
+        "tdvLogoId": "pi-industries"
+    },
+    {
+        "instrumentToken": 3834113,
+        "tradingSymbol": "POWERGRID",
+        "name": "POWER GRID CORP..",
+        "tdvLogoId": "power-grid"
+    },
+    {
+        "instrumentToken": 738561,
+        "tradingSymbol": "RELIANCE",
+        "name": "RELIANCE INDUSTRIES",
+        "tdvLogoId": "reliance-industrial-infrastructure"
+    },
+    {
+        "instrumentToken": 4600577,
+        "tradingSymbol": "SBICARD",
+        "name": "SBI CARDS & PAY SER",
+        "tdvLogoId": "sbi-cards-and-paymen"
+    },
+    {
+        "instrumentToken": 5582849,
+        "tradingSymbol": "SBILIFE",
+        "name": "SBI LIFE INSURANCE CO",
+        "tdvLogoId": "sbi-life-insurance"
+    },
+    {
+        "instrumentToken": 779521,
+        "tradingSymbol": "SBIN",
+        "name": "STATE BANK OF INDIA",
+        "tdvLogoId": "state-bank"
+    },
+    {
+        "instrumentToken": 794369,
+        "tradingSymbol": "SHREECEM",
+        "name": "SHREE CEMENT",
+        "tdvLogoId": "shree-cement"
+    },
+    {
+        "instrumentToken": 806401,
+        "tradingSymbol": "SIEMENS",
+        "name": "SIEMENS",
+        "tdvLogoId": "siemens"
+    },
+    {
+        "instrumentToken": 837889,
+        "tradingSymbol": "SRF",
+        "name": "SRF",
+        "tdvLogoId": "srf"
+    },
+    {
+        "instrumentToken": 857857,
+        "tradingSymbol": "SUNPHARMA",
+        "name": "SUN PHARMACEUTICAL IND L",
+        "tdvLogoId": "sun-pharmaceutical"
+    },
+    {
+        "instrumentToken": 878593,
+        "tradingSymbol": "TATACONSUM",
+        "name": "TATA CONSUMER PRODUCT",
+        "tdvLogoId": "tata"
+    },
+    {
+        "instrumentToken": 884737,
+        "tradingSymbol": "TATAMOTORS",
+        "name": "TATA MOTORS",
+        "tdvLogoId": "tata"
+    },
+    {
+        "instrumentToken": 877057,
+        "tradingSymbol": "TATAPOWER",
+        "name": "TATA POWER CO",
+        "tdvLogoId": "tata"
+    },
+    {
+        "instrumentToken": 895745,
+        "tradingSymbol": "TATASTEEL",
+        "name": "TATA STEEL",
+        "tdvLogoId": "tata"
+    },
+    {
+        "instrumentToken": 2953217,
+        "tradingSymbol": "TCS",
+        "name": "TATA CONSULTANCY SERV LT",
+        "tdvLogoId": "tata"
+    },
+    {
+        "instrumentToken": 3465729,
+        "tradingSymbol": "TECHM",
+        "name": "TECH MAHINDRA",
+        "tdvLogoId": "mahindra-tech"
+    },
+    {
+        "instrumentToken": 897537,
+        "tradingSymbol": "TITAN",
+        "name": "TITAN COMPANY",
+        "tdvLogoId": "titan-company"
+    },
+    {
+        "instrumentToken": 900609,
+        "tradingSymbol": "TORNTPHARM",
+        "name": "TORRENT PHARMACEUTICALS L",
+        "tdvLogoId": "torrent-pharmaceuticals"
+    },
+    {
+        "instrumentToken": 2952193,
+        "tradingSymbol": "ULTRACEMCO",
+        "name": "ULTRATECH CEMENT",
+        "tdvLogoId": "ultratech-cement"
+    },
+    {
+        "instrumentToken": 2889473,
+        "tradingSymbol": "UPL",
+        "name": "UPL",
+        "tdvLogoId": "upl"
+    },
+    {
+        "instrumentToken": 784129,
+        "tradingSymbol": "VEDL",
+        "name": "VEDANTA",
+        "tdvLogoId": "steel-dynamics"
+    },
+    {
+        "instrumentToken": 969473,
+        "tradingSymbol": "WIPRO",
+        "name": "WIPRO",
+        "tdvLogoId": "wipro"
+    },
+    {
+        "instrumentToken": 1304833,
+        "tradingSymbol": "ZOMATO",
+        "name": "ZOMATO",
+        "tdvLogoId": "zomato"
+    }
+]
